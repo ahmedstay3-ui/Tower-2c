@@ -1,0 +1,9 @@
+{
+  "appId": "com.towerguard.game",
+  "appName": "حارس البرج",
+  "webDir": "www",
+  "backgroundColor": "#0a2430",
+  "android": {
+    "allowMixedContent": false
+  }
+}
